@@ -15,7 +15,7 @@
 
 - **Order Management** – Place orders & track order history
 
-- **Search & Filters – Find products quickly with search and category filters
+- **Search & Filters** – Find products quickly with search and category filters
 
 - **Admin Dashboard** – Manage products, categories, and orders (Admin-only access)
 
@@ -40,7 +40,7 @@
 - **JWT (Authentication)**
 
 - **Cloudinary (Image upload for products)**
--  **Resens API**
+-  **Resend API**
 - **Stripe**
   
 
