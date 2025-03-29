@@ -2,7 +2,8 @@
 ## Grocery Store
 ### A full-stack grocery delivery e-commerce platform inspired by instant delivery services, built with modern web technologies.
 
-![image](https://github.com/user-attachments/assets/f3bb3e39-337f-4831-9494-eee716f57425)
+![image](https://github.com/user-attachments/assets/eb82bff5-d70b-46f5-b4f1-94daefc5a7d3)
+
 
 
 
@@ -106,10 +107,14 @@ VITE_API_URL = http://localhost:8080
 
 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/f1ef272d-8441-4c62-9946-7a7fd1590992)
-![image](https://github.com/user-attachments/assets/f6b5dbc1-29d5-4637-9b75-a7166e372622)
-![image](https://github.com/user-attachments/assets/050ab50f-f499-4c0c-817e-9576518d9d98)
-![image](https://github.com/user-attachments/assets/f056211f-9e1a-43cb-9427-11b727d31cbb)
+![image](https://github.com/user-attachments/assets/f705e569-d70c-48ab-a801-9e665da73f48)
+
+![image](https://github.com/user-attachments/assets/388429cd-9c1a-4dae-89de-8697612c303d)
+
+![image](https://github.com/user-attachments/assets/55dd4bf1-df98-49b1-838b-e37c06fecea6)
+
+![image](https://github.com/user-attachments/assets/dc806d00-55d2-40d8-ab58-b1c3da072322)
+
 
 
 
@@ -125,7 +130,7 @@ This project is MIT licensed.
 
 
 ## Connect with me
- <a href="https://www.linkedin.com/in/avnisharma1705" target="_blank">
+ <a href="https://www.linkedin.com/in/akash-das-real/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
  </a>
 
